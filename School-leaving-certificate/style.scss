@@ -1,0 +1,48 @@
+$clr: rgb(181, 170, 168);
+
+body{
+    background-color: rgb(151, 139, 139);
+}
+img{
+    width: 1250px;
+    height: 850px;
+    
+}
+
+.txt{
+    font-size: 22px;
+    position: absolute;
+    text-decoration: underline;
+}
+
+.name{
+    top: 246px;
+    background: linear-gradient(to right, rgb(184, 173, 169), rgb(193, 182, 178));
+    padding-top: 38px;
+    left: 433px;
+    width: 200px;
+}
+
+.fname{
+    top: 240px;
+    padding-top: 44px;
+    left: 825px;
+    width: 270px;
+    background: linear-gradient(to right, rgb(184, 173, 169), rgb(163, 153, 154));
+}
+
+.date{
+    top: 365px;
+    left: 427px;
+    padding-top: 27px;
+    width: 140px;
+    background: linear-gradient(to right, rgb(185, 173, 171), rgb(191, 180, 176));
+}
+
+.cls{
+    top: 415px;
+    left: 710px;
+    padding-top: 26px;
+    background: linear-gradient(to right, rgb(185, 173, 171), rgb(181, 171, 170));
+    width: 80px;
+}

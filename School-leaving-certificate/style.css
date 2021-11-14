@@ -1,0 +1,51 @@
+body {
+  background-color: #978b8b;
+}
+
+img {
+  width: 1250px;
+  height: 850px;
+}
+
+.txt {
+  font-size: 22px;
+  position: absolute;
+  text-decoration: underline;
+}
+
+.name {
+  top: 246px;
+  background: -webkit-gradient(linear, left top, right top, from(#b8ada9), to(#c1b6b2));
+  background: linear-gradient(to right, #b8ada9, #c1b6b2);
+  padding-top: 38px;
+  left: 433px;
+  width: 200px;
+}
+
+.fname {
+  top: 240px;
+  padding-top: 44px;
+  left: 825px;
+  width: 270px;
+  background: -webkit-gradient(linear, left top, right top, from(#b8ada9), to(#a3999a));
+  background: linear-gradient(to right, #b8ada9, #a3999a);
+}
+
+.date {
+  top: 365px;
+  left: 427px;
+  padding-top: 27px;
+  width: 140px;
+  background: -webkit-gradient(linear, left top, right top, from(#b9adab), to(#bfb4b0));
+  background: linear-gradient(to right, #b9adab, #bfb4b0);
+}
+
+.cls {
+  top: 415px;
+  left: 710px;
+  padding-top: 26px;
+  background: -webkit-gradient(linear, left top, right top, from(#b9adab), to(#b5abaa));
+  background: linear-gradient(to right, #b9adab, #b5abaa);
+  width: 80px;
+}
+/*# sourceMappingURL=style.css.map */
